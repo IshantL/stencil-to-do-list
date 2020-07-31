@@ -1,2 +1,2 @@
 # stencil-to-do-list
-To-do list created with stencli
+To-do list created with stencil
